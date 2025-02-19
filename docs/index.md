@@ -7,7 +7,7 @@ El objetivo de esta práctica es aprender a desplegar una app PHP con Nginx y My
 
 Primero nos conectamos con ssh
 
-![](assets/01_ssh.png)
+![](assets/01_ssh.png) 
 
 ## Estructura de directorios
 
